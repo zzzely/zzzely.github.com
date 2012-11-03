@@ -1,11 +1,12 @@
 ---
 layout: page
-title: zzzely!
-tagline: Forza Milan 
+title: zzzely
+tagline: Forza Milan ! 
 ---
 {% include JB/setup %}
 
 Here's a sample "posts list".
+## Posts List
 
 <ul class="posts">
   {% for post in site.posts %}
