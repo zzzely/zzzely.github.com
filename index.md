@@ -1,7 +1,7 @@
 ---
 layout: page
 title: zzzely!
-tagline: {{ page.tagline }}
+tagline: Forza Milan 
 ---
 {% include JB/setup %}
 
