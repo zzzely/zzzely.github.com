@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: zzzely!
+tagline: {{ page.tagline }}
 ---
 {% include JB/setup %}
 

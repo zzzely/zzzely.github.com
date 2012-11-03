@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -46,4 +45,3 @@ zzzely.github.com
 =================
 
 zzzely's Jekyll-Bootstrap blog
->>>>>>> fd263caa706ac68627cd7a15080c97ddb1d11eb7
