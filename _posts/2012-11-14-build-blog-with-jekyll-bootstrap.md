@@ -31,7 +31,7 @@ GitHub上有详细的[安装说明](https://github.com/mojombo/jekyll/wiki/insta
 
 ###Jekyll Bootstrap
 
-[Jekyll Bootstrap](http://jekyllbootstrap.com/) 简化了使用Jekyll搭建Blog的过程，通过官方[教程](http://jekyllbootstrap.com/#start-now), 填入你自己的GitHub USERNAME ，就可以生成个性化的安装命令，你可以很快搭建起自己的Blog。
+[Jekyll Bootstrap](http://jekyllbootstrap.com/) 简化了使用Jekyll搭建Blog的过程，通过**官方[教程](http://jekyllbootstrap.com/#start-now)**, 填入你自己的GitHub USERNAME ，就可以生成个性化的安装命令，你可以很快搭建起自己的Blog。
 
 ###本地搭建jekyll server
 
@@ -73,6 +73,10 @@ GitHub上有详细的[安装说明](https://github.com/mojombo/jekyll/wiki/insta
 USERNAME.github.com 其实是个挺不错的域名了，但是如果想绑定自己的域名，可以在` USERNAME.github.com `文件夹下新建一个CNAME 文件，里面的内容就是你的域名，比如USERNAME.COM
 
 然后按照[GitHub所说]（https://help.github.com/articles/setting-up-a-custom-domain-with-pages）将你的域名指向` 204.232.175.78 `这个ip，例如在GoDaddy中，添加一条@记录。这样当再次访问你的域名的时候，就会只想GitHub Pages了（可能DNS更新会需要一段时间）。
+
+####favicon
+
+如果想要个性化的标签页图标，也就是所说的favicon，可以将选定的favicon.ico 放在USERNAME.github.com文件夹根目录下就可以了。
 
 [感谢](http://kyle.xlau.org/posts/github-cname.html)
 
