@@ -26,6 +26,10 @@ tags: [linux, wpa, wifi]
 
 	sudo wpa_supplicant -B -i wlan0 -Dwext -c ~/.networkconf/NAME.conf
 
+` -B `为后台（background）/` -i `为接口 /` -c `即刚创建的配置文件.
+
+` -D `意为驱动，查了下，wext 是（wireless extension） ，使用 wext 的工具通过 ioctl 和驱动通信，典型工具ifconfig 等。
+
 设置DHCP
 
 	sudo dhclient wlan0
