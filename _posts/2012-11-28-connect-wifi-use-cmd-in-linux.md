@@ -3,7 +3,7 @@ layout: post
 title: "在Linux中使用命令行设置wpa无线连接"
 description: ""
 category: [OS]
-tags: [linux,wpa,wifi]
+tags: [linux, wpa, wifi]
 ---
 {% include JB/setup %}
 之前一直在用wicd管理无线网络，但是因为测aircrack-ng，稀里糊涂卸载掉了，顺便用了下命令行连接无线。
