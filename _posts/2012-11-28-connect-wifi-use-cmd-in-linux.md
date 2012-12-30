@@ -2,7 +2,7 @@
 layout: post
 title: "在Linux中使用命令行设置wpa无线连接"
 description: ""
-category: [OS]
+category: OS
 tags: [linux, wpa, wifi]
 ---
 {% include JB/setup %}
