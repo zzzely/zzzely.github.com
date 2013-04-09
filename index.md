@@ -5,8 +5,11 @@ tagline: stop the clocks!
 ---
 {% include JB/setup %}
 
-  **这是使用Jekyll Bootstrap搭建的Blog，托管在github上。 在这里折腾些杂七杂八，写些有的没的。** 
-***
+<!--<div class="picshow">
+<canvas id="cnvs" width="940" height="117"></canvas>
+</div>
+-->
+
 
 <ul class="posts">
   {% for post in site.posts limit:20%}
