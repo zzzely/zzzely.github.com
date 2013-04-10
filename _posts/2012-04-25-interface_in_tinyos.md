@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 对tinyOS中接口的理解
+title: 对TinyOS中接口的理解
 date: 2012-04-25 18:14
 comments: true
 categories: [Coding]

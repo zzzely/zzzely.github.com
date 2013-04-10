@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "connectify 蓝屏"
+title: "Connectify 蓝屏"
 description: ""
 category: OS 
 tags: [connectify]

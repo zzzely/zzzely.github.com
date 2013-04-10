@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 安装vs2010 的msdn
+title: 安装VS2010 的MSDN
 date: 2011-05-17 13:50
 comments: true
 categories: [Tools&Apps]

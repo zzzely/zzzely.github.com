@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vim 支持 nesC 语法高亮
+title: Vim 支持 nesC 语法高亮
 comments: true
 categories: [Coding]
 tags: [nesc, TinyOS, vim, syntax, highlight]

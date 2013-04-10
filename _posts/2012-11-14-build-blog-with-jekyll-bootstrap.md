@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用jekyll bootstrap搭建Blog"
+title: "使用Jekyll Bootstrap搭建Blog"
 description: ""
 category: Tools&Apps
 tags: [jekyll, blog]
