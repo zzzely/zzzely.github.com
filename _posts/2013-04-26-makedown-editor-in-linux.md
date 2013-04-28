@@ -20,7 +20,7 @@ tags: [markdown, retext, vim]
 
 ##Retext编辑markdown##
 
-___Retext is a simple but powerful text editor for Markdown and reStructuredText.It is written in Python using Qt libraries, able to run on any platforms.___
+>Retext is a simple but powerful text editor for Markdown and reStructuredText.It is written in Python using Qt libraries, able to run on any platforms.
 
 [Retext](http://sourceforge.net/p/retext/home/ReText/)是一个用Python实现的跨平台的支持markdown的文本编辑器。它可以支持实时的效果预览，也可以将文件输出HTML/PDF/ODT等格式。
 

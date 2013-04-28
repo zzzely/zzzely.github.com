@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XP下Virtualbox虚拟Ubuntu（未完） 
+title: XP下Virtualbox虚拟Ubuntu
 comments: true
 categories: [OS]
 tags: [windows, ubuntu, virtualbox]
@@ -9,7 +9,7 @@ tags: [windows, ubuntu, virtualbox]
 {% include JB/setup %}
 环境：主机操作系统是Windows XP，虚拟机是Ubuntu 9.10，虚拟机是VirtualBox 2.1.0。
 
-####安装增强功能包(Guest Additions)
+##安装增强功能包(Guest Additions)
 
 安装好Ubuntu 9.10后，运行Ubuntu并登录。然后在VirtualBox的菜单里选择”设备(Devices)” -> “安装增强功能包(Install Guest Additions)”。
 
@@ -20,12 +20,12 @@ tags: [windows, ubuntu, virtualbox]
 
 开始安装工具包。安装完毕后会提示要重启Ubuntu。
 
-####设置共享文件夹
+##设置共享文件夹
 
 重启完成后点击”设备(Devices)” -> 共享文件夹(Shared Folders)菜单，添加一个共享文件夹，选项固定和临时是指该文件夹是否是持久的。
 共享名可以任取一个自己喜欢的，比如”gongxiang”，尽量使用英文名称。
 
-####挂载共享文件夹
+##挂载共享文件夹
 
 重新进入虚拟Ubuntu，在命令行终端下输入：
 

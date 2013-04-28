@@ -16,6 +16,7 @@ tags: [nesc, gedit, tinyos, syntax, highlight]
 
 重启gedit就可以了。
 
+<pre>
 <ol class="linenums">
 	<li class="L0"><span class="pun">&lt;?</span><span class="pln">xml version</span><span class="pun">=</span><span class="str">"1.0"</span><span class="pln"> encoding</span><span class="pun">=</span><span class="str">"UTF-8"</span><span class="pun">?&gt;</span></li>
 	<li class="L1"><span class="com">&lt;!--</span></li>
@@ -107,3 +108,4 @@ tags: [nesc, gedit, tinyos, syntax, highlight]
 	<li class="L7"><span class="pln">    </span><span class="tag">&lt;/definitions&gt;</span></li>
 	<li class="L8"><span class="tag">&lt;/language&gt;</span></li>
 </ol>
+</pre>
