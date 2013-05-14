@@ -2,7 +2,7 @@
 layout: post
 title: 五道口淘CD小记
 comments: true
-categories: [Music]
+categories: [Jottings]
 tags: [CD]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: 迟来的2011总结贴
 comments: true
-categories: [随笔]
+categories: [Jottings]
 tags: [总结]
 ---
 {% include JB/setup %}

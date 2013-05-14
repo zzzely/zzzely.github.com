@@ -2,7 +2,7 @@
 layout: post
 title: 辛辛苦苦几十年，一夜回到解放前！
 comments: true
-categories: [随笔]
+categories: [Jottings]
 tags: [考研, 思考]
 ---
 {% include JB/setup %}

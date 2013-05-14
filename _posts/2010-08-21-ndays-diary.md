@@ -3,7 +3,7 @@ layout: post
 title: n日记
 date: 2010-08-21 21:54
 comments: true
-categories: [随笔]
+categories: [Jottings]
 tags: []
 ---
 {% include JB/setup %}

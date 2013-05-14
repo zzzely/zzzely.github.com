@@ -3,7 +3,7 @@ layout: post
 title: Shine A Light -----rolling stones
 date: 2010-04-27 23:24
 comments: true
-categories: [Music]
+categories: [Jottings]
 tags: [rolling stones]
 ---
 

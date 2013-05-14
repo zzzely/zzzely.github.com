@@ -3,7 +3,7 @@ layout: post
 title: spaces live搬家到 wordpress
 date: 2010-10-03 23:12
 comments: true
-categories: [随笔]
+categories: [Jottings]
 tags: [wordpress, blog]
 ---
 

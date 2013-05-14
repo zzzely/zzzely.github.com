@@ -3,7 +3,7 @@ layout: post
 title: 从和方方的聊天中想到的
 date: 2011-12-18 11:18
 comments: true
-categories: [随笔]
+categories: [Jottings]
 tags: [思考]
 ---
 回头看看，这段时间在实验室的苦逼也不是一天两天了，搞TinyOS这个相对小众分主流的方向几乎把热情之类都消磨殆尽了。每周被老师催着，搞的自己刚到周三周四就我心慌慌。

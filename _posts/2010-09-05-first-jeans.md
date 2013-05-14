@@ -3,7 +3,7 @@ layout: post
 title: 今天开始养第一条牛！
 date: 2010-09-05 11:28
 comments: true
-categories: [杂七八]
+categories: [Jottings]
 tags: [jeans, 养牛]
 ---
 {% include JB/setup %}
