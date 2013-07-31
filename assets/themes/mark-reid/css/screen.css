@@ -71,6 +71,7 @@ margin: 1.46em 0 0 0;
 
 sup { line-height: 1ex; }
 
+
 #site {
     max-width: 46em;
 margin: 1.5em auto 3em auto;
@@ -78,17 +79,17 @@ margin: 1.5em auto 3em auto;
 }
 
 #page, #disqus_thread {
-background: white;
+/*background: #CCC;*/
 	    /*	background-image: url(grid.png); */
 padding: 3em 3em 1.5em 3em;
-border: 1px solid #ccc;
+/*border: 1px solid #ccc;*/
 }
 
 /* More experimental CSS3 features */
 #page, #disqus_thread {
-    box-shadow: 2px 2px 8px #aaa;
-    -webkit-box-shadow: 2px 2px 8px #aaa;
-    -moz-box-shadow: 2px 2px 8px #aaa;	
+    /*box-shadow: 2px 2px 8px #aaa;*/
+    /*-webkit-box-shadow: 2px 2px 8px #aaa;*/
+    /*-moz-box-shadow: 2px 2px 8px #aaa;	*/
 }
 
 #disqus_thread { padding-top: 0; }
