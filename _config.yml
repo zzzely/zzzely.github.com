@@ -11,8 +11,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Stop the clocks
-tagline: Site Tagline
+title : 停摆
+tagline: Stop the clocks
 author :
   name : zzzely
   email : zzzely@gmail.com

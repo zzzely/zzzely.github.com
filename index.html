@@ -6,32 +6,15 @@ tagline: stop the clocks!
 
 {% include JB/setup %}
 
+<div class="list-group">
 
-<!--
-<div class="picshow" style="border-width:1px; border-style:solid;border-color: #FBFBFB;-moz-box-shadow: 2px 2px 10px #909090; -webkit-box-shadow: 2px 2px 10px #909090; box-shadow:2px 2px 10px #909090; margin-left:-400px;width:250%;height:200px;background:url(images/Milan.jpg) no-repeat center center #ffffff">
+	{% for post in site.posts limit:15%}
+  <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">{{ post.title }}<span class="pull-right">{{ post.date | date: "%b %Y" }}</span></a>
 
-</div>
-
--->
-
-
-<ul class="posts">
-  {% for post in site.posts limit:15%}
-    <!--<li><span>{{ post.date | date_to_string }}</span>   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>-->
-    <li>  
-    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-<span class="dateright">{{ post.date | date: "%b %Y" }}</span>
-    </li>
-    <br />
   {% endfor %}
-</ul>
-
-<div style="width:50%;margin-left:auto;margin-right:auto;text-align:right;c    lear:both;">
-          <!--<a href="/archive.html">查看全部{{site.posts.size}}篇文章...</a>-->
-          <a href="/archive.html">More...</a>
 </div>
 
-<hr >
-<div class="quiet">
-<!--花些时间给自己感兴趣的、有意思的东西，希望可以一直记录下去……-->
-</div>
+
+
+<button type="button" class="btn btn-default btn-md pull-right">更多...</button>
+
