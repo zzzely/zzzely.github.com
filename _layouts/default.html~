@@ -27,7 +27,7 @@
                      <li><a href="/">首页</a></li>
                      <li><a href="/archive.html">归档</a></li>
                      <li><a href="/tags.html">标签</a></li>
-                     <li><a href="/categories.html">分类</a></li>
+                     <li><a href="/categories.html"></a></li>
                   <!--    <li><a href="/about.html">关于</a></li> -->
                  </ul>
              </div>
@@ -39,7 +39,8 @@
      <div class="page-footer">
          <span>
              Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> 
-             | Hosted by <a href="http://github.com">Github.com</a>  
+             | Hosted by <a href="http://github.com">Github.com</a> 
+             | UI Designed by <a href="/about.html">hushaw</a> 
              | <span class="page-generator-time">{{site.time | date:"%Y年%m月%d日"}} </span> .
          </span>
      </div>
