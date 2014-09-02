@@ -34,7 +34,7 @@ title: Stop the Clocks
     </div>
     <div class="post-footer">
         <div class="read-more">
-            <a href="{{ post.url }}">阅读更多 &rarr;</a>
+            <a href="{{ post.url }}">阅读更多 <span class="glyphicon glyphicon-circle-arrow-right"></span></a>
         </div>
     </div>
 </div>
@@ -53,9 +53,9 @@ title: Stop the Clocks
         <li><a href="/">第一页</a></li>
     {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-        <li><a href="/">&larr;</a></li>
+        <li><a href="/"><span class="glyphicon glyphicon-chevron-left"></span></a></li>
     {% else %}
-        <li><a href="/page{{paginator.previous_page}}">&larr;</a></li>
+        <li><a href="/page{{paginator.previous_page}}"><span class="glyphicon glyphicon-chevron-left"></span></a></li>
     {% endif %}
     {% endif %}
     {% if 6 < paginator.page %}
@@ -80,7 +80,7 @@ title: Stop the Clocks
         <li><a class="disabled">...</a></li>
     {% endif %}
     {% if paginator.next_page %}
-        <li><a class="next" href="/page{{paginator.next_page}}">&rarr;</a></li>
+        <li><a class="next" href="/page{{paginator.next_page}}"><span class="glyphicon glyphicon-chevron-right"></span></a></li>
     {% endif %}
     {% if paginator.page == 1 %}
         <li><a href="/">最后页</a></li>
