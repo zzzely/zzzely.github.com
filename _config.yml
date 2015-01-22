@@ -10,6 +10,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: redcarpet
 highlighter: pygments
 
+excerpt_separator: "<!--more-->"
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #

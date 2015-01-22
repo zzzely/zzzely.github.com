@@ -30,11 +30,15 @@ title: Stop the Clocks
     </div>
     <div class="post-entry">
         
-        {{  post.content | truncatewords: 5 }}
+ 	{% if site.excerpt_separator %}
+        {{ post.excerpt }}
+        {% else %}
+        {{ post.content }}
+        {% endif %}
     </div>
     <div class="post-footer">
         <div class="read-more">
-            <a href="{{ post.url }}">阅读更多 <span class="glyphicon glyphicon-circle-arrow-right"></span></a>
+            <a href="{{ post.url }}">全文 <span class="glyphicon glyphicon-circle-arrow-right"></span></a>
         </div>
     </div>
 </div>
